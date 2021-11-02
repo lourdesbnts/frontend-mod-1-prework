@@ -22,7 +22,6 @@ var creatures = "unicorns";
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
-
 // Data type for numberOfCreatures will be Integer since it is a whole number and doesn't have quotes.
 // Data types for creatures will be a String since it is a word in quotes.
 
